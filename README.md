@@ -1,4 +1,4 @@
-# Brayan Hwrnandez
+# Brayan Hernández
 -----
 [sobre mi](#) [tecnologias](#) [proyectos](#) [contacto](#)
 -----
